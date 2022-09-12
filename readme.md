@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">Backend Developer Js Php</h3>
 
-- 🔭 I’m currently working on [Breyaue Airlines](https://github.com/ebreyaue/breyaueair)
+- 🔭 I’m currently looking an job in IT
 
 - 🌱 I’m currently learning **Nodejs, PHP, Javascript**
 
