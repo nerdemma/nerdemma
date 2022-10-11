@@ -1,4 +1,8 @@
+<span class="text-gradient sample" style="background: linear-gradient(135deg, rgb(121, 199, 251), rgb(0, 35, 71));">Hi i'm emma</span>
+
 <h1 align="center">Hi 👋, I'm Emma</h1>
+
+
 <h3 align="center">Backend Developer Js Php</h3>
 
 - 🔭 I’m currently looking an job in IT
