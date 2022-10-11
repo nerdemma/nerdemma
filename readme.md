@@ -1,4 +1,5 @@
-<span class="text-gradient sample" style="background: linear-gradient(135deg, rgb(121, 199, 251), rgb(0, 35, 71));">Hi i'm emma</span>
+
+<span style="font-size: 72px;background: linear-gradient( 135deg, #79c7fb, #002347 );-webkit-background-clip: text;-webkit-text-fill-color: transparent;">Hi I'm Emma</span>
 
 <h1 align="center">Hi 👋, I'm Emma</h1>
 
