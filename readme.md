@@ -1,4 +1,4 @@
-<img src="gs://nerdemma-4abac.appspot.com/Banner para Linkedin Licenciada Marketing Minimalista Beige.png">
+<img src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png?alt=media&token=89535a91-2755-482a-9085-76e0437443bd">
 
 <h3 align="center">Soluciones en Desarrollo y Administración de Software.</h3>
 
