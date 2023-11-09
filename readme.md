@@ -1,4 +1,5 @@
-<p align="center"><img src="gs://nerdemma-4abac.appspot.com/Banner para Linkedin Licenciada Marketing Minimalista Beige.png">
+<p align="center">
+ <img src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/Banner%20para%20Linkedin%20Licenciada%20Marketing%20Minimalista%20Beige.png?alt=media&token=89535a91-2755-482a-9085-76e0437443bd">
 </p>
 
 <h3 align="center">Soluciones en desarrollo de software e infraestructura.</h3>
@@ -13,18 +14,18 @@
 
 - 📫 Escribeme en **hello@emmanuelbreyaue.com**
 
+<h3 align="left">Acerca de Mí:</h3>
+<p>
+
+Soy Emmanuel D. Breyaue, también conocido como nerdemma. Me especializo en el desarrollo de software utilizando C/C++, Java y Python. Me apasiona trabajar con sistemas operativos como Linux🐧 y OpenBSD🐡, y también he trabajado con Microsoft Windows🪟. Me dedico a crear procesos dinámicos para aplicaciones, asegurando experiencias de usuario fluidas. Si necesitas más información, no dudes en preguntarme. ¡Gracias por tu interés! 🚀👩‍💻
+ 
+</p>
+
+
 <h3 align="left">Donde Contactarme:</h3>
 
 <p align="left">
-<a href="https://rebel.ar/nerdemma" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/mastodon-svgrepo-com.svg?alt=media&token=c55f0ae3-24a0-4d03-9523-e1d7ed865b46" alt="nerdemma" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/emmanueldbreyaue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanueldbreyaue" height="30" width="40" /></a>
-
-
-<a href="https://t.me/nerdemma" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/telegram-svgrepo-com.svg?alt=media&token=33d789e7-fb17-4baa-91bd-45688bb94235" alt="nerdemma" height="30" width="40" /></a>
-
-<a href="https://links.rebel.ar/nerdemma" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/lemmy.svg?alt=media&token=09dc550c-2f77-40ba-889b-0079a1c7cefd" alt="nerdemma at fediverse" height="30" width="40" /></a>
-
+<a href="https://links.rebel.ar/u/nerdemma" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/lemmy.svg?alt=media&token=09dc550c-2f77-40ba-889b-0079a1c7cefd" alt="nerdemma at lemmy" width="40" height="40"/> </a> <a href="https://t.me/nerdemma" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/telegram-svgrepo-com.svg?alt=media&token=33d789e7-fb17-4baa-91bd-45688bb94235" alt="telegram" width="40" height="40"/> </a> <a href="https://rebel.ar/@nerdemma" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/nerdemma-4abac.appspot.com/o/mastodon-svgrepo-com.svg?alt=media&token=c55f0ae3-24a0-4d03-9523-e1d7ed865b46" alt="mastodon" width="40" height="40"/> </a>
 </p>
 
 
