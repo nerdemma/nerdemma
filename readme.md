@@ -8,7 +8,7 @@
 
 - 🌱 Me instruyo constantemente en **Java, Python, Javascript**
 
-- 📝 Escribo sobre Tecnologia en [https://medium.com/nerdemma](https://medium.com/nerdemma)
+- 📝 Escribo sobre Tecnologia en [https://medium.com/@nerdemma](https://medium.com/@nerdemma)
 
 - 💬 Preguntame sobre **C++ Linux y OpenBSD**
 
