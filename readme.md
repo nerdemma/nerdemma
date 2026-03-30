@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  workstation@dell-150L:~$ whoami                             ║
+║  workstation@debian:~$ whoami                             ║
 ║  > Emmanuel David Breyaue — nerdemma                         ║
 ║  > Ing. Telecomunicaciones · SysAdmin · Dev BSD/UNIX         ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -28,10 +28,10 @@ Estudiante de **Ingeniería en Telecomunicaciones** en la **UNSAM** y profesiona
 Apasionado por el bajo nivel, la arquitectura de sistemas **Unix/BSD** y la creación de herramientas eficientes desde la terminal.
 
 ```
-Idiomas humanos  →  Español (nativo)  ·  Inglés  ·  Ruso  ·  Alemán
+Idiomas humanos  →  Español (nativo)  ·  Inglés  ·  Italiano  ·  Alemán
 Idiomas máquina  →  C  ·  C++  ·  Rust  ·  Python  ·  Java  ·  Bash
-Sistema          →  OpenBSD 7.0 · Dell OptiPlex 150L · fvwm · xterm
-Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Wing — UNSAM)
+Sistema          →  Linux Debian · FreeBSD · cwm · xterm
+Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Left Wing — UNSAM)
 ```
 
 > **Proyecto actual:** [`Micro-Directory Service para Unix BSD`](https://github.com/nerdemma) — alternativa ligera a Active Directory, diseñada para correr en hardware legacy sobre arquitectura 32/64-bit.
@@ -42,7 +42,7 @@ Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Wing — UNSAM)
 
 | # | Proyecto | Descripción | Stack | Estado |
 |:-:|:---------|:------------|:-----:|:------:|
-| 01 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Gestión integral para proveedores de internet (ISPs). Administración de clientes, facturación y monitoreo de nodos. | `C++` | ![Completado](https://img.shields.io/badge/-Completado-brightgreen?style=flat-square) |
+| 01 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Gestión integral para proveedores de internet (ISPs). Administración de clientes, facturación y monitoreo de nodos. | `C++` | ![WIP](https://img.shields.io/badge/-Completado-brightgreen?style=flat-square) |
 | 02 | **[Atrapacorazones](https://github.com/nerdemma/Atrapacorazones)** | Juego arcade para terminal con secuencias ANSI y optimización de ciclos. Corre en cualquier terminal UNIX. | `C` | ![Estable](https://img.shields.io/badge/-Estable-0077b5?style=flat-square) |
 | 03 | **[Micro-Directory Service](https://github.com/nerdemma)** | Alternativa ligera a Active Directory para entornos BSD. Gestión de usuarios, grupos y políticas en C puro. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-En_Desarrollo-e94560?style=flat-square) |
 | 04 | **[TraceChain](https://github.com/nerdemma)** | Trazabilidad de coordenadas GPS integradas de forma inmutable en Blockchain. Desarrollado en Level Up Hackathon 2024. | `Blockchain` `GPS` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
@@ -55,6 +55,9 @@ Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Wing — UNSAM)
 *Participación activa en el ecosistema builder de Buenos Aires.*
 
 ```diff
++ [2026] Aleph Hackathon      → UvlAuth
+Agente autónomo certificado bajo el estandar ERC-8004, diseñado para ejecutarse en hardware restringido y entornos de misión critica.          
+
 + [2024] Aleph Hackathon      → Builder Monitoring
          Script de telemetría para monitorear actividad en tiempo real dentro del IDE.
          Captura métricas de sesión, commits y ciclos de compilación.
@@ -123,7 +126,7 @@ Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Wing — UNSAM)
 "La IA es la evolución del debugger: te señala los errores de compilación.
  La calidad del código se centra en el razonamiento analítico del programador.
  Las herramientas son medios, no el fin."
-                                              — nerdemma · OpenBSD contributor
+                                              — nerdemma · FreeBSD contributor
 ```
 
 ---
@@ -136,9 +139,8 @@ Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Wing — UNSAM)
 
 ```
 ╔══════════════════════════════════════════╗
-║  workstation@dell-150L:~$ shutdown -h 0  ║
+║  workstation@debian-150L:~$ shutdown -h 0  ║
 ║  > System halted.                        ║
 ╚══════════════════════════════════════════╝
 ```
-
 </div>
