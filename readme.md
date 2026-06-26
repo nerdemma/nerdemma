@@ -2,9 +2,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  workstation@debian:~$ whoami                             ║
+║  workstation@debian:~$ whoami                                ║
 ║  > Emmanuel David Breyaue — nerdemma                         ║
-║  > Ing. Telecomunicaciones · SysAdmin · Dev BSD/UNIX         ║
+║  > Telecommunications Eng. · SysAdmin · Dev BSD/UNIX         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,7 +12,7 @@
 
 <div align="left">
 
-[![Sitio Web](https://img.shields.io/badge/🌐_SITIO_WEB-1a1a2e?style=for-the-badge&logoColor=white&labelColor=e94560&color=0f3460)](https://emmanuelbreyaue.com)
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white&labelColor=e94560&color=0f3460)](https://emmanuelbreyaue.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldbreyaue)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nerdemma)
 [![X](https://img.shields.io/badge/X__TWITTER-1a1a2e?style=for-the-badge&logo=x&logoColor=white&labelColor=533483)](https://x.com/nerdemmadev)
@@ -24,62 +24,63 @@
 
 ## `$ cat /etc/profile.d/emmanuel.conf`
 
-Estudiante de **Ingeniería en Telecomunicaciones** en la **UNSAM** y profesional con más de **6 años de experiencia** en Soporte IT y Administración de Sistemas.
-Apasionado por el bajo nivel, la arquitectura de sistemas **Unix/BSD** y la creación de herramientas eficientes desde la terminal.
+Student of **Telecommunications Engineering** at **UNSAM** and a professional with over **6 years of experience** in IT Support and Systems Administration.
+Passionate about low-level computing, **Unix/BSD** system architecture, and building efficient tools from the terminal.
 
 ```
-Idiomas humanos  →  Español (nativo)  ·  Inglés  ·  Italiano  ·  Alemán
-Idiomas máquina  →  C  ·  C++  ·  Rust  ·  Python  ·  Java  ·  Bash
-Sistema          →  Linux Debian · FreeBSD · cwm · xterm
-Intereses        →  Ajedrez competitivo (1250 Elo)  ·  Rugby (Left Wing — UNSAM)
+Human languages   →  Spanish (native)  ·  English  ·  Italian  ·  German
+Machine languages →  C  ·  C++  ·  Rust  ·  Python  ·  Java  ·  Bash
+System            →  Linux Debian · FreeBSD · cwm · xterm
+Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 ```
 
-> **Proyecto actual:** [`Micro-Directory Service para Unix BSD`](https://github.com/nerdemma) — alternativa ligera a Active Directory, diseñada para correr en hardware legacy sobre arquitectura 32/64-bit.
+> **Current project:** [`Litedir Service for Unix BSD`](https://github.com/nerdemma/litedir) — a lightweight alternative to Active Directory, designed to run on legacy hardware with 32/64-bit architecture.
 
 ---
 
-## `$ ls -la ./proyectos/`
+## `$ ls -la ./projects/`
 
-| # | Proyecto | Descripción | Stack | Estado |
+| # | Project | Description | Stack | Status |
 |:-:|:---------|:------------|:-----:|:------:|
-| 01 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Gestión integral para proveedores de internet (ISPs). Administración de clientes, facturación y monitoreo de nodos. | `C++` | ![WIP](https://img.shields.io/badge/-Completado-brightgreen?style=flat-square) |
-| 02 | **[Atrapacorazones](https://github.com/nerdemma/Atrapacorazones)** | Juego arcade para terminal con secuencias ANSI y optimización de ciclos. Corre en cualquier terminal UNIX. | `C` | ![Estable](https://img.shields.io/badge/-Estable-0077b5?style=flat-square) |
-| 03 | **[Micro-Directory Service](https://github.com/nerdemma)** | Alternativa ligera a Active Directory para entornos BSD. Gestión de usuarios, grupos y políticas en C puro. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-En_Desarrollo-e94560?style=flat-square) |
-| 04 | **[TraceChain](https://github.com/nerdemma)** | Trazabilidad de coordenadas GPS integradas de forma inmutable en Blockchain. Desarrollado en Level Up Hackathon 2024. | `Blockchain` `GPS` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
-| 05 | **[TechAI Log Analyzer](https://github.com/nerdemma)** | Chatbot especializado en análisis y diagnóstico de logs de sistemas Linux mediante IA. Media Party 2024. | `Python` `AI` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
+| 01 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Full management suite for Internet Service Providers. Handles client administration, billing, and node monitoring. | `C++` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
+| 02 | **[Heartcatcher Game](https://github.com/nerdemma/heartcatcher)** | Arcade game for the terminal using ANSI sequences and cycle optimization. Runs on any UNIX terminal. | `C` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 03 | **[Lite Dir Services](https://github.com/nerdemma/litedir)** | Lightweight Active Directory alternative for BSD environments. User, group, and policy management in pure C. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
+| 04 | **[TraceChain](https://github.com/nerdemma/tracechain)** | GPS coordinate traceability immutably recorded on Blockchain. Built at the Level Up Hackathon 2024. | `Blockchain` `GPS` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
+| 05 | **[TechAI Log Analyzer](https://github.com/nerdemma/techai)** | AI-powered chatbot specialized in analyzing and diagnosing Linux system logs. Media Party 2024. | `Python` `AI` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
 
 ---
 
 ## `$ cat ./hackathons.log`
 
-*Participación activa en el ecosistema builder de Buenos Aires.*
+*Active participant in the Buenos Aires builder ecosystem.*
 
 ```diff
 + [2026] Aleph Hackathon      → UvlAuth
-Agente autónomo certificado bajo el estandar ERC-8004, diseñado para ejecutarse en hardware restringido y entornos de misión critica.          
+         Autonomous agent certified under the ERC-8004 standard, designed to run
+         on constrained hardware and mission-critical environments.
 
 + [2024] Aleph Hackathon      → Builder Monitoring
-         Script de telemetría para monitorear actividad en tiempo real dentro del IDE.
-         Captura métricas de sesión, commits y ciclos de compilación.
+         Telemetry script to monitor activity in real time inside the IDE.
+         Captures session metrics, commits, and compilation cycles.
 
 + [2024] Level Up Hackathon   → TraceChain
-         Trazabilidad de coordenadas GPS inmutables en Blockchain.
-         Cada punto geográfico queda registrado de forma verificable en cadena.
+         Immutable GPS coordinate traceability on Blockchain.
+         Every geographic point is verifiably recorded on-chain.
 
 + [2024] Media Party          → TechAI
-         Chatbot especializado en análisis y diagnóstico de logs Linux mediante IA.
-         Diagnóstico conversacional de errores del sistema en lenguaje natural.
+         Chatbot specialized in analyzing and diagnosing Linux logs via AI.
+         Conversational system error diagnostics in natural language.
 
 + [2014] Media Party          → LawDocs
-         Automatización legal para generar edictos judiciales en PDF con un clic.
-         Primer proyecto de automatización documental para el sector judicial.
+         Legal automation to generate judicial edicts in PDF with one click.
+         First document automation project for the judicial sector.
 ```
 
 ---
 
-## `$ lshw --short` — Mi Toolbox Técnico
+## `$ lshw --short` — My Technical Toolbox
 
-**[ Sistemas · Bajo Nivel · UNIX ]**
+**[ Systems · Low-Level · UNIX ]**
 
 ![C](https://img.shields.io/badge/C-e94560?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0f3460?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -89,7 +90,7 @@ Agente autónomo certificado bajo el estandar ERC-8004, diseñado para ejecutars
 ![Bash](https://img.shields.io/badge/Bash-533483?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0f3460?style=for-the-badge&logo=powershell&logoColor=white)
 
-**[ Desarrollo · Web · Datos ]**
+**[ Development · Web · Data ]**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
 ![Java](https://img.shields.io/badge/Java-0f3460?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -120,12 +121,27 @@ Agente autónomo certificado bajo el estandar ERC-8004, diseñado para ejecutars
 
 ---
 
+## `$ cat ./metrics.log`
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nerdemma&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nerdemma)
+[![GitHub Followers](https://img.shields.io/github/followers/nerdemma?style=for-the-badge&logo=github&logoColor=white&labelColor=0f3460&color=533483&label=FOLLOWERS)](https://github.com/nerdemma?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/nerdemma?style=for-the-badge&logo=github&logoColor=white&labelColor=e94560&color=0f3460&label=TOTAL+STARS)](https://github.com/nerdemma)
+
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nerdemma&query=$.public_repos&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=533483&label=PUBLIC+REPOS)](https://github.com/nerdemma?tab=repositories)
+[![Gists](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nerdemma&query=$.public_gists&style=for-the-badge&logo=github&logoColor=white&labelColor=0f3460&color=e94560&label=PUBLIC+GISTS)](https://gist.github.com/nerdemma)
+
+</div>
+
+---
+
 ## `$ cat ./philosophy.txt`
 
 ```
-"La IA es la evolución del debugger: te señala los errores de compilación.
- La calidad del código se centra en el razonamiento analítico del programador.
- Las herramientas son medios, no el fin."
+"AI is the evolution of the debugger: it points out compilation errors.
+ Code quality centers on the analytical reasoning of the programmer.
+ Tools are means, not ends."
                                               — nerdemma · FreeBSD contributor
 ```
 
@@ -133,9 +149,9 @@ Agente autónomo certificado bajo el estandar ERC-8004, diseñado para ejecutars
 
 <div align="center">
 
-**Escritor Técnico en [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UNSAM**
+**Technical Writer on [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UNSAM**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=nerdemma&color=e94560&style=flat-square&label=visitas+al+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=nerdemma&color=e94560&style=flat-square&label=profile+visits)
 
 ```
 ╔══════════════════════════════════════════╗
