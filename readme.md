@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-[![Huevsite Score](https://huevbadge.onrender.com/badge/nerdemma)](https://huevsite.io/nerdemma)
+[![Huevsite Score](https://huevbadge.onrender.com/badge/nerdemma?v=1)](https://huevsite.io/nerdemma)      
          
 [![Website](https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white&labelColor=e94560&color=0f3460)](https://emmanuelbreyaue.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldbreyaue)
