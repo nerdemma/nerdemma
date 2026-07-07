@@ -53,8 +53,7 @@ Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 | 07 | **[avaxwallet](https://github.com/nerdemma/avaxwallet)** | Wallet for AVAX developed in pure C. | `C` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 | 08 | **[biometrial](https://github.com/nerdemma/biometrial)** | Face detection and photography classification, backup and multimedia sync. | `Python` `Biometric` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
 | 09 | **[matebursatil](https://github.com/nerdemma/matebursatil)** | API for the Argentina stock market. | `Python` `Scraping` `FastAPI` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 10 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Full management suite for Internet Service Providers. College end-of-course project. | `C++` `OOP` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
-| 11 | **[heartcatcher](https://github.com/nerdemma/heartcatcher)** | Arcade game for the terminal using ANSI sequences and cycle optimization. | `C` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
+
 
 ---
 
