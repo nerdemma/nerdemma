@@ -26,7 +26,7 @@
 
 ## `$ cat /etc/profile.d/emmanuel.conf`
 
-Student of **Telecommunications Engineering** at **UNSAM** and a professional with over **6 years of experience** in IT Support and Systems Administration.
+Student of **Programming** at **UTN** and a professional with over **6 years of experience** in IT Support and Systems Administration.
 Passionate about low-level computing, **Unix/BSD** system architecture, and building efficient tools from the terminal.
 
 ```
@@ -44,11 +44,17 @@ Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 
 | # | Project | Description | Stack | Status |
 |:-:|:---------|:------------|:-----:|:------:|
-| 01 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Full management suite for Internet Service Providers. Handles client administration, billing, and node monitoring. | `C++` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
-| 02 | **[Heartcatcher Game](https://github.com/nerdemma/heartcatcher)** | Arcade game for the terminal using ANSI sequences and cycle optimization. Runs on any UNIX terminal. | `C` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 03 | **[Lite Dir Services](https://github.com/nerdemma/litedir)** | Lightweight Active Directory alternative for BSD environments. User, group, and policy management in pure C. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
-| 04 | **[TraceChain](https://github.com/nerdemma/tracechain)** | GPS coordinate traceability immutably recorded on Blockchain. Built at the Level Up Hackathon 2024. | `Blockchain` `GPS` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
-| 05 | **[TechAI Log Analyzer](https://github.com/nerdemma/techai)** | AI-powered chatbot specialized in analyzing and diagnosing Linux system logs. Media Party 2024. | `Python` `AI` | ![Hackathon](https://img.shields.io/badge/-Hackathon-533483?style=flat-square) |
+| 01 | **[Litedir](https://github.com/nerdemma/litedir)** | Lightweight Active Directory alternative for BSD environments. User, group, and policy management in pure C. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
+| 02 | **[xnvpn](https://github.com/nerdemma/xnvpn)** | Extended virtual private network with custom tunneling and encryption. | `Linux` `Sockets` `Encryption` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 03 | **[lsql](https://github.com/nerdemma/lsql)** | Lightweight SQL engine for UNIX-based environments. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 04 | **[novabasic](https://github.com/nerdemma/novabasic)** | BASIC interpreter for UNIX-based environments. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 05 | **[arcd](https://github.com/nerdemma/arcd)** | HTTP server with CGI support. | `C` `Sockets` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 06 | **[techsupport](https://github.com/nerdemma/techsupport)** | SaaS for IT support services. | `JavaScript` `NodeJS` `React` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
+| 07 | **[avaxwallet](https://github.com/nerdemma/avaxwallet)** | Wallet for AVAX developed in pure C. | `C` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 08 | **[biometrial](https://github.com/nerdemma/biometrial)** | Face detection and photography classification, backup and multimedia sync. | `Python` `Biometric` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
+| 09 | **[matebursatil](https://github.com/nerdemma/matebursatil)** | API for the Argentina stock market. | `Python` `Scraping` `FastAPI` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 10 | **[ISPManager](https://github.com/nerdemma/ISPManager)** | Full management suite for Internet Service Providers. College end-of-course project. | `C++` `OOP` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
+| 11 | **[heartcatcher](https://github.com/nerdemma/heartcatcher)** | Arcade game for the terminal using ANSI sequences and cycle optimization. | `C` | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
 
 ---
 
@@ -60,22 +66,6 @@ Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 + [2026] Aleph Hackathon      → UvlAuth
          Autonomous agent certified under the ERC-8004 standard, designed to run
          on constrained hardware and mission-critical environments.
-
-+ [2024] Aleph Hackathon      → Builder Monitoring
-         Telemetry script to monitor activity in real time inside the IDE.
-         Captures session metrics, commits, and compilation cycles.
-
-+ [2024] Level Up Hackathon   → TraceChain
-         Immutable GPS coordinate traceability on Blockchain.
-         Every geographic point is verifiably recorded on-chain.
-
-+ [2024] Media Party          → TechAI
-         Chatbot specialized in analyzing and diagnosing Linux logs via AI.
-         Conversational system error diagnostics in natural language.
-
-+ [2014] Media Party          → LawDocs
-         Legal automation to generate judicial edicts in PDF with one click.
-         First document automation project for the judicial sector.
 ```
 
 ---
