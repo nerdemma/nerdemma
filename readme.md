@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  workstation@debian:~$ whoami                                ║
 ║  > Emmanuel David Breyaue — nerdemma                         ║
-║  > Telecommunications Eng. · SysAdmin · Dev BSD/UNIX         ║
+║  > Web3 & AI Builder. · SysAdmin · Dev BSD/UNIX              ║
 ╚══════════════════════════════════════════════════════════════╝
                         ...                   
                            .........          
