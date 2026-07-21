@@ -6,7 +6,41 @@
 ║  > Emmanuel David Breyaue — nerdemma                         ║
 ║  > Telecommunications Eng. · SysAdmin · Dev BSD/UNIX         ║
 ╚══════════════════════════════════════════════════════════════╝
+                        ...                   
+                           .........          
+             ...              ...........     
+         .... ..                ..............
+    .........  .  .              .............
+   ..........  .      ..         .............
+............    ,dxolll:..       .............
+.............  .xkkkxkd:'.       .............
+...............;:;.'dd..'.      ..............
+...............oOkxO0k''::,.    ..............
+...............,k00kdl. ,;.     ..............
+................:xxl:,. ..      ..............
+.................;:cl'..       . .............
+...................,l:,..          ...........
+..................l'..                ........
+..............   c0llc:oc''.             .....
+..........     . ;xklxxkdl.       .          .
+.........  ....  .kWXK0KK'.....  ......       
+.................,00kxx0'....  .......        
+....... ......'dxdll:,............. .         
+......  .....,xkdcc:;'  .........             
+.....  .....:xxxxd:,'.  ........              
+.....  ...'dxxxddd,'.   ...        .          
+
+
 ```
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -30,10 +64,10 @@ Student of **Programming** at **UTN** and a professional with over **6 years of 
 Passionate about low-level computing, **Unix/BSD** system architecture, and building efficient tools from the terminal.
 
 ```
-Human languages   →  Spanish (native)  ·  English  ·  Italian  ·  German
-Machine languages →  C  ·  C++  ·  Rust  ·  Python  ·  Java  ·  Bash
-System            →  Linux Debian · FreeBSD · cwm · xterm
-Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
+Human languages   →  Spanish (native)  ·  English  ·  German
+Machine languages →  C  ·  C++  ·  Rust  ·  Python  ·  Java  ·  Go
+System            →  Linux · Unix · BSD · FreeDOS
+Interests         →  Chess · Hacking and Computers
 ```
 
 > **Current project:** [`Litedir Service for Unix BSD`](https://github.com/nerdemma/litedir) — a lightweight alternative to Active Directory, designed to run on legacy hardware with 32/64-bit architecture.
@@ -97,18 +131,7 @@ Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 ![Vim](https://img.shields.io/badge/Vim-1a1a2e?style=for-the-badge&logo=vim&logoColor=e94560)
 ![VSCode](https://img.shields.io/badge/VSCode-533483?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## `$ curl api.github.com/users/nerdemma/stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nerdemma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=e0e0e0&ring_color=533483" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdemma&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=e0e0e0" width="44%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nerdemma&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=7a8fa6&dates=7a8fa6&stroke=0f3460" width="96%" />
-
-</div>
 
 ---
 
@@ -140,7 +163,7 @@ Interests         →  Competitive Chess (1250 Elo)  · Hacking and Computers
 
 <div align="center">
 
-**Technical Writer on [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UNSAM**
+**Technical Writer on [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UTN**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nerdemma&color=e94560&style=flat-square&label=profile+visits)
 
