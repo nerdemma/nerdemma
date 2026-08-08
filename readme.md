@@ -97,6 +97,9 @@ Interests         →  Chess · Hacking and Computers
 + [2026] Aleph Hackathon      → UvlAuth
          Autonomous agent certified under the ERC-8004 standard, designed to run
          on constrained hardware and mission-critical environments.
+
++ [2026] Midnight Hackathon      → Jobconnect
+         Job searching platform that the the salary rate is confidential and secure information.
 ```
 
 ---
