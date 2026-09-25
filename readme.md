@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  workstation@debian:~$ whoami                                ║
 ║  > Emmanuel David Breyaue — nerdemma                         ║
-║  > Web3 & AI Builder. · SysAdmin · Dev BSD/UNIX              ║
+║  > Web3 & AI Builder. · SysAdmin · LINUX/UNIX Dev            ║
 ╚══════════════════════════════════════════════════════════════╝
                         ...                   
                            .........          
@@ -32,24 +32,14 @@
 
 
 ```
-
-
-
-
-
-
-
-
-
-
 </div>
 
 <div align="left">
 
 [![Huevsite Score](https://huevbadge.onrender.com/badge/nerdemma?v=99)](https://huevsite.io/nerdemma)
          
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white&labelColor=e94560&color=0f3460)](https://emmanuelbreyaue.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueldbreyaue)
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-1a1a2e?style=for-the-badge&logoColor=white&labelColor=e94560&color=0f3460)](https://nerdemma.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-d-breyaue)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-e94560?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/nerdemma)
 [![X](https://img.shields.io/badge/X__TWITTER-1a1a2e?style=for-the-badge&logo=x&logoColor=white&labelColor=533483)](https://x.com/nerdemmadev)
 [![Medium](https://img.shields.io/badge/MEDIUM-0f3460?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nerdemma)
@@ -60,31 +50,33 @@
 
 ## `$ cat /etc/profile.d/emmanuel.conf`
 
-Student of **Programming** at **UTN** and a professional with over **6 years of experience** in IT Support and Systems Administration.
-Passionate about low-level computing, **Unix/BSD** system architecture, and building efficient tools from the terminal.
+Estudiante de **Programacion** en la **UTN** y Analista Tecnico con más de **6 años de experiencia** en soporte e infraestructura de TI. 
+
+Entusiasta del del ecosistema **Web3** y de la tecnologia de **AI**, desarrollo aplicaciones cada vez más eficientes desde la terminal.
+
 
 ```
-Human languages   →  Spanish (native)  ·  English  ·  German
-Machine languages →  C  ·  C++  ·  Python  ·  Java  
-System            →  Linux · Unix · BSD · FreeDOS
-Interests         →  Chess · Hacking and Computers
+Idiomas   →  Español  ·  Inglés  ·  Alemán
+Lenguajes de Programación →  C  ·  C++  ·  Python  ·  Java · Javascript · TypeScript 
+System            →  Linux · Unix · MacOS
+Interests         →  Chess · Web3 · AI ·Hacking and Computers
 ```
 
-> **Current project:** [`Litedir Service for Unix BSD`](https://github.com/nerdemma/litedir) — a lightweight alternative to Active Directory, designed to run on legacy hardware with 32/64-bit architecture.
+> **Proyecto Actual:** [`Nodex`](https://github.com/nerdemma/nodex) — Una Blockchain que funciona mediante el protocolo de consenso brizantino generando nuevos bloques mediante la aprobación de participantes, el sistema opera gracias al algortimo de encriptacion ECDSA. 
 
 ---
 
 ## `$ ls -la ./projects/`
 
-| # | Project | Description | Stack | Status |
+| # | Proyecto | Descripción | Stack | Status |
 |:-:|:---------|:------------|:-----:|:------:|
-| 01 | **[Litedir](https://github.com/nerdemma/litedir)** | Lightweight Active Directory alternative for BSD environments. User, group, and policy management in pure C. | `C` `OpenBSD` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
-| 02 | **[xnvpn](https://github.com/nerdemma/xnvpn)** | Extended virtual private network with custom tunneling and encryption. | `Linux` `Sockets` `Encryption` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 03 | **[lsql](https://github.com/nerdemma/lsql)** | Lightweight SQL engine for UNIX-based environments. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 04 | **[novabasic](https://github.com/nerdemma/novabasic)** | BASIC interpreter for UNIX-based environments. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 05 | **[arcd](https://github.com/nerdemma/arcd)** | HTTP server with CGI support. | `C` `Sockets` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 06 | **[biometrial](https://github.com/nerdemma/biometrial)** | Face detection and photography classification, backup and multimedia sync. | `Python` `Biometric` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
-| 07 | **[matebursatil](https://github.com/nerdemma/matebursatil)** | API for the Argentina stock market. | `Python` `Scraping` `FastAPI` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 01 | **[Litedir](https://github.com/nerdemma/litedir)** | Sistema de control y autenticador de usuarios y grupos. | `C` `Linux` `SHA-256` `JSON` | ![WIP](https://img.shields.io/badge/-In_Development-e94560?style=flat-square) |
+| 02 | **[RigelVPN](https://github.com/nerdemma/rigelvpn)** | Servidor de red privada virutal, opera mediante el sistema de encriptación AES-. | `Linux` `Sockets` `Encryption` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 03 | **[lsql](https://github.com/nerdemma/lsql)** | Ligero motor de base de datos sql. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 04 | **[novabasic](https://github.com/nerdemma/novabasic)** | Interprete de lenguaje BASIC, lectura y ejecución de ficheros .BAS. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 05 | **[mserv](https://github.com/nerdemma/arcd)** | Servidor HTTP con soporte de scripts | `C` `Sockets` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 06 | **[biometrial](https://github.com/nerdemma/biometrial)** | Sistema de detección de rostros, clasificación de imagenes, scanner ocr y gestor de backup. | `Python` `Biometric` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 07 | **[matebursatil](https://github.com/nerdemma/matebursatil)** | API del mercado bursatil argentino (Merval) información actualizada cada 10 minutos, API online disponible en **[matebursatil.vercel.app](https://matebursatil.vercel.app)**. | `Python` `Scraping` `FastAPI` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 
 
 ---
@@ -94,19 +86,22 @@ Interests         →  Chess · Hacking and Computers
 *Active participant in the Buenos Aires builder ecosystem.*
 
 ```diff
-+ [2026] Aleph Hackathon      → UvlAuth
-         Autonomous agent certified under the ERC-8004 standard, designed to run
-         on constrained hardware and mission-critical environments.
-
++ [2026] Aleph Hackathon Marzo     → Avamp Protocol
+         Agente autonomo certificado bajo el estandar ERC-8004, diseñado para correr en hardware ligero. 
+         
 + [2026] Midnight Hackathon      → Jobconnect
-         Job searching platform that the the salary rate is confidential and secure information.
+         Plataforma de busqueda de empleo en el ecosistema web3 en donde el salario es información confidencial entre una de las partes, evitando los sesgos por remuneración.
+
++ [2026] Aleph Hackathon Agosto     → Pearfy
+         Sistema desentralizado de analisis wifi y diversificación de ancho de banda mediante protocolos peer to peer gracias a la tecnologia de pears.
+
 ```
 
 ---
 
 ## `$ lshw --short` — My Technical Toolbox
 
-**[ Systems · Low-Level · UNIX ]**
+**[ Sistemas  · Bajo Nivel · LINUX/UNIX ]**
 
 ![C](https://img.shields.io/badge/C-e94560?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0f3460?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -115,7 +110,7 @@ Interests         →  Chess · Hacking and Computers
 ![Bash](https://img.shields.io/badge/Bash-533483?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0f3460?style=for-the-badge&logo=powershell&logoColor=white)
 
-**[ Development · Web · Data ]**
+**[ Desarrollo · Web · Data ]**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
 ![Java](https://img.shields.io/badge/Java-0f3460?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -124,7 +119,7 @@ Interests         →  Chess · Hacking and Computers
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e94560)
 ![Nginx](https://img.shields.io/badge/Nginx-533483?style=for-the-badge&logo=nginx&logoColor=white)
 
-**[ Cloud · Infra · QA ]**
+**[ Plataformas Cloud · Infra · QA · Testing]**
 
 ![Azure](https://img.shields.io/badge/Azure_AD-0f3460?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-e94560?style=for-the-badge&logo=selenium&logoColor=white)
@@ -160,25 +155,25 @@ Interests         →  Chess · Hacking and Computers
 ---
 
 ## `$ cat ./philosophy.txt`
-
 ```
-"AI is the evolution of the debugger: it points out compilation errors.
- Code quality centers on the analytical reasoning of the programmer.
- Tools are means, not ends."
-                                              — nerdemma · FreeBSD contributor
+"La IA es la evolución del depurador: señala errores de compilación. 
+La calidad del código se centra en el razonamiento analítico del programador. 
+Las herramientas son medios, no fines."
+
+                                              — nerdemma · Desarrollador de aplicaciones enfocadas a IA y Web3.
 ```
 
 ---
 
 <div align="center">
 
-**Technical Writer on [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UTN**
+**Escribo en [Medium](https://medium.com/@nerdemma)** · **Buenos Aires, Argentina** · **UTN**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nerdemma&color=e94560&style=flat-square&label=profile+visits)
 
 ```
 ╔══════════════════════════════════════════╗
-║  workstation@debian-150L:~$ shutdown -h 0  ║
+║  workstation@debian-150L:~$ shutdown -h 0║
 ║  > System halted.                        ║
 ╚══════════════════════════════════════════╝
 ```
