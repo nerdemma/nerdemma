@@ -74,7 +74,7 @@ Interests         →  Chess · Web3 · AI ·Hacking and Computers
 | 02 | **[RigelVPN](https://github.com/nerdemma/rigelvpn)** | Servidor de red privada virutal, opera mediante el sistema de encriptación AES-. | `Linux` `Sockets` `Encryption` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 | 03 | **[lsql](https://github.com/nerdemma/lsql)** | Ligero motor de base de datos sql. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 | 04 | **[novabasic](https://github.com/nerdemma/novabasic)** | Interprete de lenguaje BASIC, lectura y ejecución de ficheros .BAS. | `C` `Parser` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
-| 05 | **[mserv](https://github.com/nerdemma/arcd)** | Servidor HTTP con soporte de scripts | `C` `Sockets` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
+| 05 | **[iws](https://github.com/nerdemma/iws)** | Servidor HTTP con soporte de scripts | `C` `Sockets` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 | 06 | **[biometrial](https://github.com/nerdemma/biometrial)** | Sistema de detección de rostros, clasificación de imagenes, scanner ocr y gestor de backup. | `Python` `Biometric` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 | 07 | **[matebursatil](https://github.com/nerdemma/matebursatil)** | API del mercado bursatil argentino (Merval) información actualizada cada 10 minutos, API online disponible en **[matebursatil.vercel.app](https://matebursatil.vercel.app)**. | `Python` `Scraping` `FastAPI` | ![Stable](https://img.shields.io/badge/-Stable-0077b5?style=flat-square) |
 
